@@ -6,7 +6,7 @@ include("includes/header.inc.php");
 <?php
 // Gérer les actions voir , modifier , supprimer 
 // verifier si l'action existe , $_GET super global pour accéder aux param de l'url
-
+// blablablabla (commentaire constructif)
 if(isset ($_GET['action'])){
    // Si l'action est égale à voir 
 
