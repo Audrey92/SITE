@@ -36,7 +36,7 @@ if(isset ($_GET['action'])){
     }
 }
 
-
+echo "Hello WORLD";
 
 
 
